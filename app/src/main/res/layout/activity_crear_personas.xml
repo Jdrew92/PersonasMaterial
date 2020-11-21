@@ -21,7 +21,8 @@
         android:layout_width="match_parent"
         android:layout_height="165dp"
         android:layout_gravity="center_horizontal"
-        tools:srcCompat="@tools:sample/avatars" />
+        app:srcCompat="@android:drawable/ic_menu_gallery"
+        tools:srcCompat="@android:drawable/ic_menu_gallery" />
 
     <EditText
         android:id="@+id/txtCedula"
