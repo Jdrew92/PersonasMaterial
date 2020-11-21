@@ -16,4 +16,13 @@
     <string name="btn_guardar">GUARDAR</string>
     <string name="btn_limpiar">LIMPIAR</string>
     <string name="detalle_persona">DETALLES PERSONA</string>
+    <string name="success_msg">Persona Guardada Exitosamente!!</string>
+    <string name="select_foto">Seleccione la foto de la persona</string>
+    <string name="titulo_eliminar">Eliminar Persona</string>
+    <string name="msg_eliminar">¿Está seguro de eliminar esta persona?</string>
+    <string name="msg_si">Si</string>
+    <string name="msg_no">No</string>
+    <string name="ced_empty">Digite la cédula</string>
+    <string name="nom_empty">Digite el nombre</string>
+    <string name="ape_empty">Digite el apellido</string>
 </resources>
