@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/cedula_hint"
+        android:hint="@string/cedula"
         android:inputType="number" />
 
     <EditText
@@ -36,7 +36,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/nombre_hint"
+        android:hint="@string/nombre"
         android:inputType="textPersonName" />
 
     <EditText
@@ -44,7 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/apellido_hint"
+        android:hint="@string/apellido"
         android:inputType="textPersonName" />
 
     <LinearLayout
