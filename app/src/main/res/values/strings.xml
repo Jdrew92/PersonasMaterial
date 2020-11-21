@@ -21,7 +21,7 @@
     <string name="titulo_eliminar">Eliminar Persona</string>
     <string name="msg_eliminar">¿Está seguro de eliminar esta persona?</string>
     <string name="msg_si">Si</string>
-    <string name="msg_no">No</string>
+    <string name="msg_no" translatable="false">No</string>
     <string name="ced_empty">Digite la cédula</string>
     <string name="nom_empty">Digite el nombre</string>
     <string name="ape_empty">Digite el apellido</string>

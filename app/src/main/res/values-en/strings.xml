@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PersonasMaterial</string>
+    <string name="titulo_crear">CREATE PERSON</string>
+    <string name="nombre">First Name</string>
+    <string name="apellido">Last Name</string>
+    <string name="cedula">DNI</string>
+    <string name="btn_guardar">SAVE</string>
+    <string name="btn_limpiar">CLEAR</string>
+    <string name="detalle_persona">PERSON DETAILS</string>
+    <string name="success_msg">Person saved succesfully!!</string>
+    <string name="select_foto">Select person\'s photo</string>
+    <string name="titulo_eliminar">Delete person</string>
+    <string name="msg_eliminar">Are you sure you want to delete?</string>
+    <string name="msg_si">Yes</string>
+    <string name="ced_empty">Type DNI</string>
+    <string name="nom_empty">Type first name</string>
+    <string name="ape_empty">Type last name</string>
 </resources>
